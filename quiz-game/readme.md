@@ -13,7 +13,7 @@ from a simple implementation to a more structured one.
 - Uses basic input/output and conditional statements
 - Calculates score and percentage
 
-### Quiz Game 2.0
+### Quiz Game 2
 - Improved version using dictionaries
 - Stores questions and answers in structured data
 - Cleaner and more scalable logic
@@ -24,3 +24,8 @@ from a simple implementation to a more structured one.
 - Loops
 - Dictionaries
 - User input handling
+
+## How to Run
+```bash
+python quiz_game.py
+python quiz_game2.py
