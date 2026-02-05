@@ -195,3 +195,4 @@ else:
     print("\nNot a valid option. You lose.")
 
 print("\nThank you for playing,", name, "the Great Adventurer!")
+
