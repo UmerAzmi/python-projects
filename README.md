@@ -29,6 +29,17 @@ in Python fundamentals.
   An interactive text-based adventure game with branching storylines,
   player-selected powers, and multiple endings.
 
+- **Matchstick Game**  
+  A turn-based game where the user plays against the computer by picking
+  1 to 4 matchsticks. The player who picks the last matchstick loses.
+  Includes input validation and an optimal computer strategy.
+
+- **Tic Tac Toe**  
+  A console-based Tic Tac Toe game where the user plays against the computer.
+  Features win and draw detection, input validation, and computer logic
+  that prioritizes winning moves, blocking the player, and then choosing
+  a random move when no immediate strategy is available.
+
 ---
 
 ### Logic & Practice Applications
